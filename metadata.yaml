@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3697'
     url: http://www.gutenberg.org/2009/agents/3697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14584#A-Compilation-of-the-Messages-and-Papers-of-the-PresidentsSection-1--of-3--of-Volume-10.
 gutenberg_issued: '2005-01-04'
 gutenberg_type: Text
 identifiers:
